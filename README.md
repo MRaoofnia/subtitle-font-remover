@@ -9,7 +9,7 @@ So this tool removes `[Fonts]` section from `.ass` subtitle file.
 ## Usage
 Simply use this script using:
 ```bash
-python3 sourcefile
+python3 FontRemover.py sourcefile
 # or
-python3 sourcefile destinationfile
+python3 FontRemover.py sourcefile destinationfile
 ```
